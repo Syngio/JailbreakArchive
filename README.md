@@ -11,7 +11,7 @@ This repository's contents are divided in three different folders: saveinstances
 
 | File                                    | Year          | Has Map? | Has ReplicatedStorage? | Has Decompiled Scripts? | Notes    | Credits |
 | --------------------------------------- | ------------- | -------- | ---------------------- | ----------------------- | -------- | ------- |
-| April 22nd (Release Patch #1).rbxl      | 2017          |  Yes     | Yes                    | Yes                     | Everything is on a folder named "game" on Workspace | Unknown |
+| April 22nd (Release Patch #1).rbxl      | 2017          |  Yes     | Yes                    | Yes                     | Everything is on a folder named "game" on Workspace | Saved by unknown |
 | Aerial Vehicle Shooting Update.rbxl     | 2017          |  Yes     | Yes                    | No                      | N/A      | Fixed by @fged, originally had broken meshes, saved by unknown. |
 | Museum Update.rbxl                      | 2018          |  Yes     | Yes                    | No                      | N/A      | Unknown |
 | Post-Winter Update (Jan 2019).rbxl      | 2019          |  Yes     | Yes                    | No                      | N/A      | Unknown |
@@ -32,22 +32,22 @@ This repository's contents are divided in three different folders: saveinstances
 | Fast Travel Jets Update.rbxl            | 2022          |  Yes       | Yes                    | Yes (But with KRNL's decompiler)          |          | Unknown |
 | McLaren F1 Update.rbxl                  | 2022          |  Yes       | Yes                    | No          | N/A         | Unknown |
 | Museum Revamp Update.rbxl               | 2022          |  Yes       | X                    | X          | N/A         | Unknown |
-| Season 9 Update.rbxl                    | 2022          |  Yes       | Yes                  | Yes        | N/A      | JayBLeaks |
-| Season 10 Update.rbxl                   | 2022          |  Yes       | Yes                  | Yes        | N/A      | JayBLeaks |
+| Season 9 Update.rbxl                    | 2022          |  Yes       | Yes                  | Yes        | N/A      | Saved by JayBLeaks |
+| Season 10 Update.rbxl                   | 2022          |  Yes       | Yes                  | Yes        | N/A      | Saved by JayBLeaks |
 | Season 11 Update.rbxl                   | 2022          |  Yes       | X                    | X          | N/A         | Unknown |
-| Season 12 Update.rbxl                   | 2022          |  Yes       | X                    | X          | N/A         | JayBLeaks |
+| Season 12 Update.rbxl                   | 2022          |  Yes       | X                    | X          | N/A         | Saved by JayBLeaks |
 | Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes       | X                    | X          | N/A         | Unknown |
 | RB Battles Update.rbxl                  | 2022          |  Yes       | X                    | X          | N/A         | Unknown |
 | Winter Update.rbxl (IN 2022 FOLDER)     | 2022          |  Yes       | X                    | X          | N/A         | Unknown |
 | NASCAR 75th Update.rbxl                 | 2023          |  Yes       | X                    | X          | N/A         | Unknown |
-| 7 Billion Update.rbxl                   | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| Fall Update.rbxl (In 2024 Folder)       | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| SWAT Event (With Obby).rbxl             | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| SWAT Event.rbxl                         | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| Scorpion Update.rbxl                    | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| Winter Update.rbxl (In 2024 Folder)     | 2024          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| Season 25.rbxl                          | 2025          |  Yes       | X                    | X          | N/A         | @lovrewe |
-| April Fools.rbxl                        | 2025          |  Yes       | X                    | X          | N/A         | @lovrewe |
+| 7 Billion Update.rbxl                   | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| Fall Update.rbxl (In 2024 Folder)       | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| SWAT Event (With Obby).rbxl             | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| SWAT Event.rbxl                         | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| Scorpion Update.rbxl                    | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| Winter Update.rbxl (In 2024 Folder)     | 2024          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| Season 25.rbxl                          | 2025          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
+| April Fools.rbxl                        | 2025          |  Yes       | X                    | X          | N/A         | Saved by @lovrewe |
 | [TEMPLATE].rbxl                         | XXXX          |  X       | X                      | X          | N/A         |         |
 
 # **File Suggestions**
