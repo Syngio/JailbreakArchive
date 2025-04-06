@@ -29,13 +29,13 @@ This repository's contents are divided in three different folders: saveinstances
 | Season 6.rbxl                           | 2021          |  Yes     | Yes                    | No         | N/A         | Saved by Hazel |
 | Winter Update.rbxl (IN 2021 FOLDER)     | 2021          |  Yes     | Yes                    | No         | N/A         | Saved by Hazel |
 | 5 Years Update.rbxl                     | 2022          |  Yes     | Yes                    | Yes        | N/A         | Saved by JayBLeaks |
-| Fast Travel Jets Update.rbxl            | 2022          |  Yes     | Yes                    | Yes      | N/A         | Saved by unknown |
+| Fast Travel Jets Update.rbxl            | 2022          |  Yes     | Yes                    | Yes (But with KRNL decompiler)      | N/A         | Saved by Syngio |
 | McLaren F1 Update.rbxl                  | 2022          |  Yes     | Yes                    | No       | N/A         | Saved by unknown |
 | Season 9 Update.rbxl                    | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
 | Season 10 Update.rbxl                   | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
 | Season 11 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A          | Saved by unknown |
 | Season 12 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A         | Saved by JayBLeaks |
-| Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes     | Yes                    | No         |          | Saved by unknown |
+| Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes     | Yes                    | Yes (But with KRNL decompiler)         | N/A          | Saved by Syngio |
 | RB Battles Update.rbxl                  | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
 | Winter Update.rbxl (IN 2022 FOLDER)     | 2022          |  Yes     | X                      | X          |          | Saved by Hazel |
 | NASCAR 75th Update.rbxl                 | 2023          |  Yes     | X                      | X          |          | Saved by unknown |
