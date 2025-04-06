@@ -9,17 +9,17 @@ This repository's contents are divided in three different folders: saveinstances
 
 ### **saveinstances (And features)**
 
-| File          | Year          | Has Map  | Has Other Assets | Has Scripts|
-| ------------- | ------------- | -------- | ---------------- | ---------- |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
-| test.rbxl     | 2017          |  X       | X                | X          |
+| File          | Year          | Has Map  | Has Other Assets | Has Scripts| Credits  |
+| ------------- | ------------- | -------- | ---------------- | ---------- | -------- |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
+| test.rbxl     | 2017          |  X       | X                | X          |          |
 
 # **File Suggestions**
 Create an issue including your file, and I'll verify if it's a real map, if so, I will make sure to include it in here!
