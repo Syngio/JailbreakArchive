@@ -9,16 +9,16 @@ This repository's contents are divided in three different folders: saveinstances
 
 ### **Saveinstances (And features)**
 
-| File                                   | Year          | Has Map?  | Has ReplicatedStorage? | Has Decompiled Scripts? | Notes    | Credits |
-| -------------                          | ------------- | -------- | ---------------- | ---------- | -------- | ------- |
-| April 22nd (Release Patch #1).rbxl     | 2017          |  Yes       | Yes                | Yes          | Everything is on a folder named "game" on Workspace         |   Unknown      |
-| Aerial Vehicle Shooting Update.rbxl     | 2017         |  Yes       | Yes                | No          | Fixed by @fged, originally had broken meshes        |  Unknown       |
-| Museum Update.rbxl     | 2018          |  Yes       | Yes                | No          |  N/A        | Unknown        |
-| Post-Winter Update (Jan 2019).rbxl     | 2019         |  Yes      | Yes                | No         | N/A         | Unknown        |
-| Passenger Train Update.rbxl     | 2019          |  Yes       | Yes                | Yes          | N/A         | Unknown        |
-| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
-| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
-| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| File                                   | Year          | Has Map? | Has ReplicatedStorage? | Has Decompiled Scripts? | Notes    | Credits |
+| ---------------------------------------| ------------- | -------- | ---------------------- | ----------------------- | -------- | ------- |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  Yes     | Yes                    | Yes                     | Everything is on a folder named "game" on Workspace         |   Unknown      |
+| Aerial Vehicle Shooting Update.rbxl    | 2017          |  Yes     | Yes                    | No                      | Fixed by @fged, originally had broken meshes        |  Unknown       |
+| Museum Update.rbxl                     | 2018          |  Yes     | Yes                    | No                      |  N/A        | Unknown        |
+| Post-Winter Update (Jan 2019).rbxl     | 2019          |  Yes     | Yes                    | No                      | N/A         | Unknown        |
+| Passenger Train Update.rbxl            | 2019          |  Yes     | Yes                    | Yes                     | N/A         | Unknown        |
+| City & Weapons Update.rbxl             | 2019          |  Yes     | Yes                    | Yes                     | N/A         | Unknown        |
+| Season 2 .rbxl                         | 2019          |  Yes     | Yes                    | No                      | N/A         | Unknown        |
+| Winter Update.rbxl                     | 2019          |  Yes     | Yes                    | No                      | N/A         | Unknown         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
