@@ -2,7 +2,7 @@
 These are some Jailbreak saveinstances I have collected over time.
 You could use these some of these files to re-script the game (And have your own Jailbreak, how amazing!)
 
-# **Versions List (And features)**
+# **Places List (And features)**
 
 | File          | Year          | Has Map  | Has Other Assets | Has Scripts|
 | ------------- | ------------- | -------- | ---------------- | ---------- |
