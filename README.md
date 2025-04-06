@@ -21,5 +21,5 @@ This repository's contents are divided in three different folders: saveinstances
 | test.rbxl     | 2017          |  X       | X                | X          |
 | test.rbxl     | 2017          |  X       | X                | X          |
 
-# **For File Suggestions**
+# **File Suggestions**
 Create an issue including your file, and I'll verify if it's a real map, if so, I will make sure to include it in here!
