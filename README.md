@@ -6,5 +6,12 @@ You could use these some of these files to re-script the game (And have your own
 
 | File          | Year          | Has Map  | Has Other Assets | Has Scripts|
 | ------------- | ------------- | -------- | ---------------- | ---------- |
-| Content Cell  | Content Cell  |   h      |                  |            |
-| Content Cell  | Content Cell  |          |                  |            |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
+| test.rbxl     | 2017          |  X       | X                | X          |
