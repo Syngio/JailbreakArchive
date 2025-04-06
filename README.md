@@ -5,7 +5,9 @@ You could use these some of these place files to re-script the game (And have yo
 
 # **Contents**
 
-## **Saveinstance List (And features)**
+This repository is divided in three different folders: saveinstances, remakes & rescripts.
+
+## **saveinstances (And features)**
 
 | File          | Year          | Has Map  | Has Other Assets | Has Scripts|
 | ------------- | ------------- | -------- | ---------------- | ---------- |
