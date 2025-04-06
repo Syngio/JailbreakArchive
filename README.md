@@ -33,8 +33,8 @@ This repository's contents are divided in three different folders: saveinstances
 | McLaren F1 Update.rbxl                  | 2022          |  Yes     | Yes                    | No       | N/A         | Saved by unknown |
 | Season 9 Update.rbxl                    | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
 | Season 10 Update.rbxl                   | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
-| Season 11 Update.rbxl                   | 2022          |  Yes     | Yes                      | No          | N/A          | Saved by unknown |
-| Season 12 Update.rbxl                   | 2022          |  Yes     | X                      | X          |          | Saved by JayBLeaks |
+| Season 11 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A          | Saved by unknown |
+| Season 12 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A         | Saved by JayBLeaks |
 | Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes     | Yes                    | No         |          | Saved by unknown |
 | RB Battles Update.rbxl                  | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
 | Winter Update.rbxl (IN 2022 FOLDER)     | 2022          |  Yes     | X                      | X          |          | Saved by Hazel |
