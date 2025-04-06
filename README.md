@@ -28,12 +28,12 @@ This repository's contents are divided in three different folders: saveinstances
 | July Update.rbxl                        | 2021          |  Yes     | Yes                    | No          | N/A         | Unknown |
 | Season 6.rbxl                           | 2021          |  Yes     | Yes                    | No          | N/A         | Hazel |
 | Winter Update.rbxl (IN 2021 FOLDER)     | 2021          |  Yes     | Yes                    | No          | N/A         | Hazel |
-| 5 Years Update.rbxl                     | 2022          |  Yes       | X                      | X          |          | JayBLeaks |
+| 5 Years Update.rbxl                     | 2022          |  Yes       | Yes                      | Yes          | N/A         | JayBLeaks |
 | Fast Travel Jets Update.rbxl            | 2022          |  Yes       | X                      | X          |          | Unknown |
 | McLaren F1 Update.rbxl                  | 2022          |  Yes       | X                      | X          |          | Unknown |
 | Museum Revamp Update.rbxl               | 2022          |  Yes       | X                      | X          |          | Unknown |
-| Season 9 Update.rbxl                    | 2022          |  Yes       | X                      | X          |          | JayBLeaks |
-| Season 10 Update.rbxl                   | 2022          |  Yes       | X                      | X          |          | JayBLeaks |
+| Season 9 Update.rbxl                    | 2022          |  Yes       | Yes                      | Yes          | N/A         | JayBLeaks |
+| Season 10 Update.rbxl                   | 2022          |  Yes       | Yes                      | Yes          | N/A         | JayBLeaks |
 | Season 11 Update.rbxl                   | 2022          |  Yes       | X                      | X          |          | Unknown |
 | Season 12 Update.rbxl                   | 2022          |  Yes       | X                      | X          |          | JayBLeaks |
 | Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes       | X                      | X          |          | Unknown |
