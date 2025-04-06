@@ -35,12 +35,12 @@ This repository's contents are divided in three different folders: saveinstances
 | Season 10 Update.rbxl                   | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
 | Season 11 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A          | Saved by unknown |
 | Season 12 Update.rbxl                   | 2022          |  Yes     | Yes                    | No          | N/A         | Saved by JayBLeaks |
-| Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes     | Yes                    | Yes (But with KRNL decompiler)         | N/A          | Saved by Syngio |
-| RB Battles Update.rbxl                  | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
-| Winter Update.rbxl (IN 2022 FOLDER)     | 2022          |  Yes     | X                      | X          |          | Saved by Hazel |
-| NASCAR 75th Update.rbxl                 | 2023          |  Yes     | X                      | X          |          | Saved by unknown |
-| 7 Billion Update.rbxl                   | 2024          |  Yes     | X                      | X          |          | Saved by @lovrewe |
-| Fall Update.rbxl (In 2024 Folder)       | 2024          |  Yes     | X                      | X          |          | Saved by @lovrewe |
+| Trading Hub Sneak-Peek.rbxl             | 2022          |  Yes     | Yes                    | Yes (But with KRNL decompiler) | N/A          | Saved by Syngio |
+| Winter Update.rbxl (IN 2022 FOLDER)     | 2022          |  Yes     | Yes                    | No          |          | Saved by Hazel |
+| RB Battles Update.rbxl                  | 2022          |  Yes     | Yes                    | No          |          | Saved by unknown |
+| NASCAR 75th Update.rbxl                 | 2023          |  Yes     | Yes                    | No          |          | Saved by unknown |
+| 7 Billion Update.rbxl                   | 2024          |  Yes     | Yes                    | No          |          | Saved by @lovrewe |
+| Fall Update.rbxl (In 2024 Folder)       | 2024          |  Yes     | Yes                    | No          |          | Saved by @lovrewe |
 | SWAT Event (With Obby).rbxl             | 2024          |  Yes     | X                      | X          |          | Saved by @lovrewe |
 | SWAT Event.rbxl                         | 2024          |  Yes     | X                      | X          |          | Saved by @lovrewe |
 | Scorpion Update.rbxl                    | 2024          |  Yes     | X                      | X          |          | Saved by @lovrewe |
