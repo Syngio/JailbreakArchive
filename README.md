@@ -27,7 +27,26 @@ This repository's contents are divided in three different folders: saveinstances
 | Season 4.rbxl     | 2017          |  X       | X                | X          |          |         |
 | July Update.rbxl     | 2017          |  X       | X                | X          |          |         |
 | Season 6.rbxl     | 2017          |  X       | X                | X          |          |         |
-| Winter Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Winter Update.rbxl (IN 2021 FOLDER)     | 2017          |  X       | X                | X          |          |         |
+| 5 Years Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Fast Travel Jets Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| McLaren F1 Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Museum Revamp Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Season 9 Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Season 10 Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Season 11 Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Season 12 Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Trading Hub Sneak-Peek.rbxl     | 2017          |  X       | X                | X          |          |         |
+| RB Battles Update.rbxl     | 2017          |  X       | X                | X          |          |         |
+| Winter Update.rbxl (IN 2022 FOLDER)     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
