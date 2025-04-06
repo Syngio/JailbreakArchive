@@ -29,8 +29,8 @@ This repository's contents are divided in three different folders: saveinstances
 | Season 6.rbxl                           | 2021          |  Yes     | Yes                    | No         | N/A         | Saved by Hazel |
 | Winter Update.rbxl (IN 2021 FOLDER)     | 2021          |  Yes     | Yes                    | No         | N/A         | Saved by Hazel |
 | 5 Years Update.rbxl                     | 2022          |  Yes     | Yes                    | Yes        | N/A         | Saved by JayBLeaks |
-| Fast Travel Jets Update.rbxl            | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
-| McLaren F1 Update.rbxl                  | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
+| Fast Travel Jets Update.rbxl            | 2022          |  Yes     | Yes                    | Yes      | N/A         | Saved by unknown |
+| McLaren F1 Update.rbxl                  | 2022          |  Yes     | Yes                    | No       | N/A         | Saved by unknown |
 | Museum Revamp Update.rbxl               | 2022          |  Yes     | X                      | X          |          | Saved by unknown |
 | Season 9 Update.rbxl                    | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
 | Season 10 Update.rbxl                   | 2022          |  Yes     | Yes                    | Yes        | N/A      | Saved by JayBLeaks |
