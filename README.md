@@ -9,8 +9,19 @@ This repository's contents are divided in three different folders: saveinstances
 
 ### **Saveinstances (And features)**
 
-| File          | Year          | Has Map  | Has Other Assets | Has Scripts| Notes    | Credits |
-| ------------- | ------------- | -------- | ---------------- | ---------- | -------- | ------- |
+| File                                   | Year          | Has Map  | Has ReplicatedStorage | Has Scripts| Notes    | Credits |
+| -------------                          | ------------- | -------- | ---------------- | ---------- | -------- | ------- |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  Yes       | Yes                | Yes          | Everything is on a folder named "game" on Workspace         |   Unknown      |
+| Aerial Vehicle Shooting Update.rbxl     | 2017          |  Yes       | Yes                | No          | Fixed by @fged        |  Unknown       |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 
 # **File Suggestions**
