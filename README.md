@@ -7,19 +7,11 @@ You could use these some of these place files to re-script the game (And have yo
 
 This repository's contents are divided in three different folders: saveinstances, remakes & rescripts. These are also organized by year for ease of access.
 
-### **saveinstances (And features)**
+### **Saveinstances (And features)**
 
-| File          | Year          | Has Map  | Has Other Assets | Has Scripts| Credits  |
-| ------------- | ------------- | -------- | ---------------- | ---------- | -------- |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
-| test.rbxl     | 2017          |  X       | X                | X          |          |
+| File          | Year          | Has Map  | Has Other Assets | Has Scripts| Notes    | Credits |
+| ------------- | ------------- | -------- | ---------------- | ---------- | -------- | ------- |
+| test.rbxl     | 2017          |  X       | X                | X          |          |         |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file, and I'll verify if it's a legit map, if so, I will make sure to include it in here! (and of course, credit you).
