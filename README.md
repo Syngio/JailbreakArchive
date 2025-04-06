@@ -20,8 +20,8 @@ This repository's contents are divided in three different folders: saveinstances
 | Season 2 .rbxl                         | 2019          |  Yes     | Yes                    | No                      | N/A      | Unknown |
 | Winter Update.rbxl                     | 2019          |  Yes     | Yes                    | No                      | N/A      | Unknown |
 | HD Update.rbxl                         | 2020          |  Yes     | Yes                    | No                      | N/A      | Unknown |
-| 3 Years Update.rbxl     | 2020          |  Yes       | Yes                | Almost (Missing Client Scripts)          |          |         |
-| April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
+| 3 Years Update.rbxl                    | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts) | N/A | Unknown |
+| Blade Update.rbxl                      | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts | N/A | Unknown |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
 | April 22nd (Release Patch #1).rbxl     | 2017          |  X       | X                | X          |          |         |
