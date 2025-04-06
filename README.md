@@ -12,7 +12,7 @@ This repository's contents are divided in three different folders: saveinstances
 | File                                    | Year          | Has Map? | Has ReplicatedStorage? | Has Decompiled Scripts? | Notes    | Credits |
 | --------------------------------------- | ------------- | -------- | ---------------------- | ----------------------- | -------- | ------- |
 | April 22nd (Release Patch #1).rbxl      | 2017          |  Yes     | Yes                    | Yes                     | Everything is on a folder named "game" on Workspace | Unknown |
-| Aerial Vehicle Shooting Update.rbxl     | 2017          |  Yes     | Yes                    | No                      | Fixed by @fged, originally had broken meshes        | Unknown |
+| Aerial Vehicle Shooting Update.rbxl     | 2017          |  Yes     | Yes                    | No                      |          | Fixed by @fged, originally had broken meshes, saved by unknown. |
 | Museum Update.rbxl                      | 2018          |  Yes     | Yes                    | No                      | N/A      | Unknown |
 | Post-Winter Update (Jan 2019).rbxl      | 2019          |  Yes     | Yes                    | No                      | N/A      | Unknown |
 | Passenger Train Update.rbxl             | 2019          |  Yes     | Yes                    | Yes                     | N/A      | Unknown |
@@ -23,11 +23,11 @@ This repository's contents are divided in three different folders: saveinstances
 | 3 Years Update.rbxl                     | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts) | N/A | Unknown |
 | Blade Update.rbxl                       | 2020          |  Yes     | Yes                    | Almost (Missing Client Scripts | N/A | Unknown |
 | Winter Update.rbxl (IN 2020 FOLDER)     | 2020          |  Yes     | Yes                    | Almost (Missing LocalScript) | N/A | Unknown |
-| Season 2.rbxl                           | 2017          |  X       | X                      | X          |          |         |
-| Season 4.rbxl                           | 2017          |  X       | X                      | X          |          |         |
-| July Update.rbxl                        | 2017          |  X       | X                      | X          |          |         |
-| Season 6.rbxl                           | 2017          |  X       | X                      | X          |          |         |
-| Winter Update.rbxl (IN 2021 FOLDER)     | 2017          |  X       | X                      | X          |          |         |
+| Season 2.rbxl                           | 2017          |  Yes     | Yes                    | No          | N/A         | Unknown |
+| Season 4.rbxl                           | 2017          |  Yes     | Yes                    | No          | N/A         | Unknown |
+| July Update.rbxl                        | 2017          |  Yes     | Yes                    | No          | N/A         | Unknown |
+| Season 6.rbxl                           | 2017          |  Yes     | Yes                    | No          | N/A         | Hazel |
+| Winter Update.rbxl (IN 2021 FOLDER)     | 2017          |  Yes     | Yes                    | No          | N/A         | Hazel |
 | 5 Years Update.rbxl                     | 2017          |  X       | X                      | X          |          |         |
 | Fast Travel Jets Update.rbxl            | 2017          |  X       | X                      | X          |          |         |
 | McLaren F1 Update.rbxl                  | 2017          |  X       | X                      | X          |          |         |
