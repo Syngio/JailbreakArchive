@@ -7,7 +7,7 @@ You could use some of these place files to re-script the game (And have your own
 
 This repository's contents are divided in three different categories: saveinstances, map remakes & rescripts. These are also organized by year for ease of access.
 
-### **Saveinstances (And features)**
+### **Saveinstances**
 
 | File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
 | --------------------------------------- | ------------- | -------- | ------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
@@ -50,6 +50,12 @@ This repository's contents are divided in three different categories: saveinstan
 | [`OG Jailbreak.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl)                        | 2024          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by `@lovrewe` |
 | [`Ban Jail.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/Ban%20Jail.rbxl)                        | N/A          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by unknown |
 | [`[TEMPLATE].rbxl`]()                         | XXXX          |  X       | X                      | X          |          |         |
+
+### **Re-scripts**
+
+| File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
+| --------------------------------------- | ------------- | -------- | ------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
+| [`April 22nd (Release Patch #1).rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Some stuff are on a folder named "game" on Workspace   | Saved by unknown |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here! (and of course, credit you).
