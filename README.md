@@ -53,9 +53,12 @@ This repository's contents are divided in three different categories: saveinstan
 
 ### **Re-scripts**
 
-| File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
-| --------------------------------------- | ------------- | -------- | ------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
-| [`April 22nd (Release Patch #1).rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Some stuff are on a folder named "game" on Workspace   | Saved by unknown |
+| File                                    | Year          | Description    | Credits |
+| --------------------------------------- | ------------- | -------------- | ------- |
+| [`First Public 2019 Release.rbxl`]()    | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase, not recommended for any work | Made by @jorzelekk |
+| [`Garage Customization 2019.rbxl`]()    | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above. | Made by @jorzelekk |
+| [`Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl`]()    | Based on early 2019, dated early 2024 | Latest release of Jailbreak 2019 before getting remade from the ground up. | Made by @jorzelekk |
+| [`Jailbreak_Dev_Build.rbxl`]()    | Based on early 2017, date N/A          | Remake that uses XCrim, features highly inaccurate stuff. | Made by unknown |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here! (and of course, credit you).
