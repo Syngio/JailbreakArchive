@@ -1,5 +1,5 @@
 # **The Jailbreak Archive**
-Some Jailbreak place files that I have collected over time.
+Some Jailbreak place files that I have collected (or made) over time.
 
 You could use some of these place files to re-script the game (And have your own Jailbreak, how cool does that sound!).
 
@@ -55,10 +55,11 @@ This repository's contents are divided in three different categories: saveinstan
 
 | File                                    | Year          | Description    | Credits |
 | --------------------------------------- | ------------- | -------------- | ------- |
-| [`First Public 2019 Release.rbxl`]()    | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base), not recommended for any future work. | Made by @jorzelekk |
-| [`Garage Customization 2019.rbxl`]()    | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above.                                      | Made by @jorzelekk |
+| [`First Public 2019 Release.rbxl`]() | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base), not recommended for any future work. | Made by @jorzelekk |
+| [`Garage Customization 2019.rbxl`]() | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above.                                      | Made by @jorzelekk |
 | [`Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl`]() | Based on early 2019, dated early 2024? | Latest release of Jailbreak 2019 before getting remade from the ground up.                 | Made by @jorzelekk |
-| [`Jailbreak_Dev_Build.rbxl`]()    | Based on early 2017, date N/A | Remake that uses XCrim, features highly inaccurate stuff (from the map, to the scripts themselves, except the ones in ReplicatedStorage). | Made by unknown |
+| [`Jailbreak_Dev_Build.rbxl`]() | Based on early 2017, date N/A | Remake that uses XCrim, features highly inaccurate stuff (from the map, to the scripts themselves, except the ones in ReplicatedStorage). | Made by unknown |
+| [`jail2022.rbxl`]() | Based on late 2022, dated late 2023 | I know this isn't the original file, though, I don't have it on my hands anymore I think. Very messy remake that drxck and I (Syngio) made, it uses a LOT of XCrim. Just don't mind the comments... | Made by @drxck and @Syngio |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here! (and of course, credit you).
