@@ -54,6 +54,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Season 25.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | N/A | Saved by `@lovrewe` |
 | [`April Fools.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl) | 2025 | Yes | Yes | No | N/A | Saved by `@lovrewe` |
 | **Trading Hub:** |
+| [`JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 | **Others:** |
 | [`OG Jailbreak.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2019, re-published in 2024 | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
