@@ -51,7 +51,7 @@ This repository's contents are divided in three different categories: saveinstan
 | [`Ban Jail.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/Ban%20Jail.rbxl)                        | N/A          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by unknown |
 | [`[TEMPLATE].rbxl`]()                         | XXXX          |  X       | X                      | X          |          |         |
 
-### **Re-scripts**
+### **Re-scripts (Working Games)**
 
 | File                                    | Year          | Description    | Credits |
 | --------------------------------------- | ------------- | -------------- | ------- |
