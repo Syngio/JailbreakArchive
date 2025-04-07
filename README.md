@@ -51,10 +51,10 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Winter Update (First Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Winter%20Update%20(First%20Countdown).rbxl) | 2024 |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by `@lovrewe` |
 | [`Winter Update (Mid Event Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Winter%20Update%20(Mid%20Countdown).rbxl) | 2024 | Yes | Yes | Yes | [^2] | Saved by `@lovrewe` |
 | [`Winter Update (After Countdown)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Winter%20Update.rbxl) | 2024 |  Yes | Yes | Yes | [^2] | Saved by `@lovrewe` |
-| [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | N/A | Saved by `@lovrewe` |
+| [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | [^2] | Saved by `@lovrewe` |
 | [`April Fools`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl) | 2025 | Yes | Yes | No | N/A | Saved by `@lovrewe` |
 | **Trading Hub:** |
-| [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
+| [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by `@lovrewe` |
 | **Others:** |
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2019, re-published in 2024 | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
