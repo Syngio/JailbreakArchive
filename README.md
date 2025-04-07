@@ -5,7 +5,7 @@ You could use some of these place files to re-script the game (And have your own
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, map remakes & rescripts. These are also organized by year for ease of access.
+This repository's contents are divided in two different categories: saveinstances & rescripts. These are also organized by year for ease of access.
 
 ### **Saveinstances**
 
@@ -65,4 +65,4 @@ This repository's contents are divided in three different categories: saveinstan
 | [`Jailbreak-Early-2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak-Early-2019.rbxl) | Based on early 2019, dated early 2023 | First "good" public remake that I ever made, dosen't mean it's actually good though. | Made by `@Syngio` |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here!
+File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance or re-script), and I will make sure to include it in here!
