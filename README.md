@@ -1,7 +1,7 @@
 # **The Jailbreak Archive**
-Some Jailbreak files I have collected over time.
+Some Jailbreak place files that I have collected over time.
 
-You could use these some of these place files to re-script the game (And have your own Jailbreak, how amazing does that sound!)
+You could use some of these place files to re-script the game (And have your own Jailbreak, how cool does that sound!)
 
 # **Contents**
 
