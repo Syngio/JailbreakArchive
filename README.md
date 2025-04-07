@@ -62,6 +62,7 @@ This repository's contents are divided in three different categories: saveinstan
 | [`jail2022.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/jail2022.rbxl) | Based on late 2022, dated late 2023 | Very messy and overall bad remake that drxck and I (Syngio) made, it uses a LOT of XCrim. Just don't mind the comments... Also, I know this isn't the original file, though, I don't have that on my hands anymore lol. | Made by `@drxckk` and `@Syngio` |
 | [`Winter 2018.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Winter%202018.rbxl) | Based on late 2018, date N/A | Remake that uses Jorzelek's first game as a base, that's all I need to say. | Made by `@jaiIbreakbetafanmade` on Roblox |
 | [`Power Plant Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Power%20Plant%20Update.rbxl) | Based on mid 2019, date N/A | Same as above. | Made by `@jaiIbreakbetafanmade` on Roblox |
+| [`Jailbreak-Early-2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak-Early-2019.rbxl) | Based on early 2019, dated early 2023 | First "good" public remake that I ever made, dosen't mean it's actually good though. | Made by `@Syngio` |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here!
