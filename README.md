@@ -62,7 +62,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 
 ### **Re-scripts:**
 
-t
+Files that have been modified or *re-scripted* so the game is functional to certain extent.
 
 | File                                    | Year/Date     | Description    | Credits |
 | --------------------------------------- | ------------- | -------------- | ------- |
@@ -74,6 +74,13 @@ t
 | [`Winter 2018.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Winter%202018.rbxl) | Based on late 2018, date N/A | Remake that uses Jorzelek's first game as a base, that's all I need to say. | Made by `@jaiIbreakbetafanmade` on Roblox |
 | [`Power Plant Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Power%20Plant%20Update.rbxl) | Based on mid 2019, date N/A | Same as above. | Made by `@jaiIbreakbetafanmade` on Roblox |
 | [`Jailbreak-Early-2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak-Early-2019.rbxl) | Based on early 2019, dated early 2023 | First "good" public remake that I ever made, dosen't mean it's actually good though. | Made by `@Syngio` |
+
+### **Map remakes:**
+
+Different update maps that people have remade.
+
+| File                                    | Year/Date     | Description    | Credits |
+| --------------------------------------- | ------------- | -------------- | ------- |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance or re-script), and I will make sure to include it in here!
