@@ -48,7 +48,7 @@ This repository's contents are divided in three different folders: saveinstances
 | [`Season 25.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl)                          | 2025          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by @lovrewe |
 | [`April Fools.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl)                        | 2025          |  Yes     | Yes                    | No                       | N/A                                                    | Saved by @lovrewe |
 | [`OG Jailbreak.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl)                        | 2024          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by @lovrewe |
-| [`Ban Jail.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/Ban%20Jail.rbxl))                        | N/A          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by unknown |
+| [`Ban Jail.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/Ban%20Jail.rbxl)                        | N/A          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by unknown |
 | [`[TEMPLATE].rbxl`]()                         | XXXX          |  X       | X                      | X          |          |         |
 
 # **File Suggestions**
