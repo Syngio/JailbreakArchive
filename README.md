@@ -7,7 +7,7 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of are also organized by year for ease of access.
+This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of these are also organized by year for ease of access.
 
 ### **Saveinstances:**
 
@@ -82,9 +82,7 @@ Different update maps that people have remade.
 | File | Year/Update | Description | Notes | Credits |
 | - | - | - | - | - |
 | [`71. Jailbreak REWIND [Balance Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/71.%20Jailbreak%20REWIND%20%5BBalance%20Update%5D.rbxl) | 2020/Balance Update | N/A | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
-| [`72. Jailbreak REWIND [Volcano Eruption].rbxl`](<roblox!��
-
-) | 2020/Volcano Eruption | N/A | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`72. Jailbreak REWIND [Volcano Eruption].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/72.%20Jailbreak%20REWIND%20%5BVolcano%20Eruption%5D.rbxl) | 2020/Volcano Eruption | N/A | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
 | [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | N/A/Town Revamp | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
 | [`73. Jailbreak REWIND [M12 Molten].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BM12%20Molten%5D.rbxl) | 2020 | N/A/M12 Update | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
 | [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | N/A/Fall Update | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
