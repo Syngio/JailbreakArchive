@@ -3,7 +3,7 @@ Some Jailbreak place files that I have collected (or made) over time.
 
 You could use some of these place files to re-script the game (And have your own Jailbreak, how cool does that sound!).
 
-This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom-Forces-Source) one, make sure to check it out too.
+This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom-Forces-Source) Phantom Forces one, it's very awesome.
 
 # **Contents**
 
