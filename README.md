@@ -53,7 +53,7 @@ This repository's contents are divided in three different categories: saveinstan
 
 ### **Re-scripts (Working Games)**
 
-| File                                    | Year          | Description    | Credits |
+| File                                    | Year/Date     | Description    | Credits |
 | --------------------------------------- | ------------- | -------------- | ------- |
 | [`First Public 2019 Release.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/First%20Public%202019%20Release.rbxl) | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base), not recommended for any future work. | Made by `@jorzelekk` |
 | [`Garage Customization 2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Garage%20Customization%202019.rbxl) | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above.                                      | Made by `@jorzelekk` |
