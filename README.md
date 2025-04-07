@@ -52,7 +52,7 @@ This repository's contents are divided in two different categories: saveinstance
 | [`OG Jailbreak.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl)                        | 2024          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by `@lovrewe` |
 | [`Ban Jail.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/Ban%20Jail.rbxl)                        | N/A          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by unknown |
 | [`[TEMPLATE].rbxl`]()                         | XXXX          |  X       | X                      | X          |          |         |
-[^1]: h.
+[^1]: Some UIs need to be manually fixed (Synapse screwed them up), TextLabels' transparency needs to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky).
 
 ### **Re-scripts (Working Games)**
 
