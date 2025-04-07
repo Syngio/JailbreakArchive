@@ -50,4 +50,4 @@ This repository's contents are divided in three different folders: saveinstances
 | [`[TEMPLATE].rbxl`]()                         | XXXX          |  X       | X                      | X          |          |         |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file, and I'll verify if it's a legit map, if so, I will make sure to include it in here! (and of course, credit you).
+File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here! (and of course, credit you).
