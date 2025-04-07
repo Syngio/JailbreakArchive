@@ -9,7 +9,9 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 This repository's contents are divided in two different categories: saveinstances & re-scripts. These are also organized by year for ease of access.
 
-### **Saveinstances**
+### **Saveinstances:**
+
+Maps that have been saved using exploits (Such as Synapse X).
 
 | File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
 | --------------------------------------- | ------------- | -------- | ------------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
@@ -58,7 +60,9 @@ This repository's contents are divided in two different categories: saveinstance
 [^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
 [^3]: Client scripts are NOT worth fixing.
 
-### **Re-scripts (Working Games)**
+### **Re-scripts:**
+
+t
 
 | File                                    | Year/Date     | Description    | Credits |
 | --------------------------------------- | ------------- | -------------- | ------- |
