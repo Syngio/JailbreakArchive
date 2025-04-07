@@ -64,4 +64,4 @@ This repository's contents are divided in three different categories: saveinstan
 | [`Power Plant Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Power%20Plant%20Update.rbxl) | Based on mid 2019, date N/A | Same as above. | Made by `@jaiIbreakbetafanmade` on Roblox |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here! (and of course, credit you).
+File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, map remake or a rescript), and I will make sure to include it in here!
