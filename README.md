@@ -79,8 +79,8 @@ Files that have been modified or *re-scripted* so the game is functional to cert
 
 Different update maps that people have remade.
 
-| File                                    | Year/Update     | Description    | Credits |
-| --------------------------------------- | ------------- | -------------- | ------- |
+| File | Year/Update | Description | Notes | Credits |
+| - | - | - | - | - |
 | [`TBD.rbxl`]() | 1234 b.C    | pee pee poo poo gaga. | Made by `@jorzelekk` |
 
 # **File Suggestions**
