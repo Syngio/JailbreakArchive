@@ -9,7 +9,7 @@ This repository's contents are divided in three different folders: saveinstances
 
 ### **Saveinstances (And features)**
 
-| File                                    | Year          | Has Map? | Has ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
+| File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
 | --------------------------------------- | ------------- | -------- | ------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
 | [`April 22nd (Release Patch #1).rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Some stuff are on a folder named "game" on Workspace   | Saved by unknown |
 | [`Aerial Vehicle Shooting Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/Aerial%20Vehicle%20Shooting%20Update.rbxl)     | 2017          |  Yes     | Yes                    | No                         | N/A                                                    | Fixed by @fged, as it originally had broken meshes, saved by unknown. |
