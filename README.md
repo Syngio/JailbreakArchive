@@ -83,4 +83,4 @@ Different update maps that people have remade.
 | --------------------------------------- | ------------- | -------------- | ------- |
 
 # **File Suggestions**
-File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance or re-script), and I will make sure to include it in here!
+File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
