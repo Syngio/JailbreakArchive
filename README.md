@@ -13,8 +13,8 @@ This repository's contents are divided in three different categories: saveinstan
 
 Maps that have been saved using exploits (Such as Synapse X).
 
-| File                                    | Year          | Has Map? | Has Saved ReplicatedStorage?   | Has Decompiled Scripts?      | Notes                                                  | Credits |
-| --------------------------------------- | ------------- | -------- | ------------------------------ | ---------------------------- | ------------------------------------------------------ | ------- |
+| File | Year | Has Map? | Has Saved ReplicatedStorage? | Has Decompiled Scripts? | Notes | Credits |
+| - | - | - | - | - | - | - |
 | [`April 22nd (Release Patch #1).rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/April%2022nd%20(Release%20Patch%20%231).rbxl)      | 2017          |  Yes     | Yes                    | Yes                        | Scripts and others are on a folder named "game" located on Workspace, you must put them in their proper places before making them work (I don't wanna open this file with modern Studio, as it may cause compatibility issues).   | Saved by unknown |
 | [`Aerial Vehicle Shooting Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2017/Aerial%20Vehicle%20Shooting%20Update.rbxl)     | 2017          |  Yes     | Yes                    | No                         | N/A                                                    | Fixed by `@fged`, as it originally had broken meshes, saved by unknown. |
 | [`Museum Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2018/Museum%20Update.rbxl)                      | 2018          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
@@ -64,8 +64,8 @@ Maps that have been saved using exploits (Such as Synapse X).
 
 Files that have been modified or *re-scripted* so the game is functional to certain extent.
 
-| File                                    | Year/Date     | Description    | Credits |
-| --------------------------------------- | ------------- | -------------- | ------- |
+| File | Year/Date | Description | Credits |
+| - | - | - | - |
 | [`First Public 2019 Release.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/First%20Public%202019%20Release.rbxl) | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base). Not recommended for any future work. | Made by `@jorzelekk` |
 | [`Garage Customization 2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Garage%20Customization%202019.rbxl) | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above, BUT, in this one servers crash after certain time (because of oversights in server-side code).                                      | Made by `@jorzelekk` |
 | [`Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Jailbreak_2019_Uncopylocked_made_by_Joszelus.rbxl) | Based on early 2019, dated early 2024? | Latest release of Jailbreak 2019 before getting remade from the ground up.                 | Made by `@jorzelekk` |
@@ -81,11 +81,13 @@ Different update maps that people have remade.
 
 | File | Year/Update | Description | Notes | Credits |
 | - | - | - | - | - |
-| [`71. Jailbreak REWIND [Balance Update].rbxl`]() | 2020 | pee pee poo poo gaga. | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
-| [`72. Jailbreak REWIND [Volcano Eruption].rbxl`]() | 2020 | pee pee poo poo gaga. | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
-| [`73. Jailbreak REWIND [M12 Molten].rbxl`]() | 2020 | pee pee poo poo gaga. | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
-| [`73. Jailbreak REWIND [Town Revamp].rbxl`]() | 2020 | pee pee poo poo gaga. | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
-| [`74. Jailbreak REWIND [Fall 2020].rbxl`]() | 2020 | pee pee poo poo gaga. | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`71. Jailbreak REWIND [Balance Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/71.%20Jailbreak%20REWIND%20%5BBalance%20Update%5D.rbxl) | 2020/Balance Update | N/A | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`72. Jailbreak REWIND [Volcano Eruption].rbxl`](<roblox!��
+
+) | 2020/Volcano Eruption | N/A | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | N/A/Town Revamp | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`73. Jailbreak REWIND [M12 Molten].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BM12%20Molten%5D.rbxl) | 2020 | N/A/M12 Update | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
+| [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | N/A/Fall Update | Has jorzelekk's character model somewhere in the map. | Made by `@jorzelekk` |
 
 # **File Suggestions**
 File suggestions are welcome. Just create an issue including your file and the type of file you're suggesting (saveinstance, re-script or map remake), and I will make sure to include it in here!
