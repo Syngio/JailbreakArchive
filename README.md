@@ -71,7 +71,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 
 Files that have been modified or *re-scripted* so the game is functional to certain extent.
 
-| File | Year/Date | Description | Credits |
+| File | Year and Date | Description | Credits |
 | - | - | - | - |
 | [`First Public 2019 Release.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/First%20Public%202019%20Release.rbxl) | Based on early 2019, dated early 2023    | First release of Jailbreak 2019, it features a very awful codebase (it uses `Jailbreak_Dev_Build` as a base). Not recommended for any future work. | Made by `@jorzelekk` |
 | [`Garage Customization 2019.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/rescripts/Garage%20Customization%202019.rbxl) | Based on early 2019, dated July 2023     | Leaked build of Jailbreak 2019, shares features with the one above, BUT, in this one, servers crash after certain time (because of oversights in the server-side code).                                      | Made by `@jorzelekk` |
