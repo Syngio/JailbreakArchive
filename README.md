@@ -7,7 +7,7 @@ This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of these are also organized by year for ease of access.
+This repository's contents are divided in three different categories: saveinstances, re-scripts & map remakes. Most of these are organized by year for ease of access.
 
 ### **Saveinstances:**
 
