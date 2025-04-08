@@ -62,7 +62,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
-[^1]: Some UI elements need to be manually fixed (ImageLabels), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
+[^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
 [^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
 [^3]: Client scripts are NOT worth fixing.
 [^4]: Huge chunks of the map are missing.
