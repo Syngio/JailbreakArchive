@@ -40,10 +40,12 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Season 11 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%2011%20Update.rbxl)                   | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
 | [`Season 12 Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Season%2012%20Update.rbxl)                   | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@JayBLeaks` |
 | [`Trading Hub Sneak-Peek`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Trading%20Hub%20Sneak-Peek.rbxl)             | 2022          |  Yes     | Yes                    | Yes (But with a bad decompiler) | [^3]                                                | Saved by `@Syngio` |
-| [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/Winter%20Update.rbxl)                      | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@haze_mist` |
+| [`Winter Update`]()                      | 2022          |  Yes     | Yes                    | Yes                         | N/A                                                    | Saved by `@haze_mist` |
 | [`RB Battles Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/RB%20Battles%20Update.rbxl)                  | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
 | [`NASCAR 75th Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2023/NASCAR%2075th%20Update.rbxl)                 | 2023          |  Yes     | Yes                    | Yes                        | [^2]                                                    | Saved by `@SubscribeToRC` |
 | [`7 Billion Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/7%20Billion%20Update.rbxl)                   | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
+| [`Season 21`]() | 2024 | [^4] | Yes | Yes but with a bad decompiler | [^2] [^3] | Saved by `@goordn` |
+| [`Season 22`]() | 2024 | [^4] | Yes | Yes  | [^2] | Found by `@virgil48`, saved by `@lovrewe` |
 | [`Fall Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Fall%20Update.rbxl)                        | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
 | [`SWAT Event (With Obby)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/SWAT%20Event%20(With%20Obby).rbxl)             | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
 | [`SWAT Event`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/SWAT%20Event%20(With%20Obby).rbxl)                         | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
@@ -63,6 +65,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 [^1]: Some UI elements need to be manually fixed (ImageLabels), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
 [^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
 [^3]: Client scripts are NOT worth fixing.
+[^4]: Huge chunks of the map are missing.
 
 ### **Re-scripts:**
 
