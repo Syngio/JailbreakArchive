@@ -56,7 +56,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/Season%2025.rbxl) | 2025 | Yes | Yes | Yes  | [^2] | Saved by `@lovrewe` |
 | [`April Fools`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2025/April%20Fools.rbxl) | 2025 | Yes | Yes | No | N/A | Saved by `@lovrewe` |
 | **Trading Hub:** |
-| [`Release/Day 1`]() | 2022 | Yes | Yes | No | N/A | Saved by `@JayBLeaks` |
+| [`Release/Day 1`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/day-1-trade-hub-jaybleaks.rbxl) | 2022 | Yes | Yes | No | N/A | Saved by `@JayBLeaks` |
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by `@lovrewe` |
 | **Others:** |
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2019, re-published in 2024 | Yes | Yes | Yes | N/A | Saved by `@lovrewe` |
@@ -92,6 +92,13 @@ Different update maps that people have remade.
 | - | - | - | - | - |
 | [`[Update 19] Winter Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2019%5D%20Winter%20Update.rbxl) | 2017 | Winter Update | N/A | Made by `@.nuc.lear.` |
 | [`[Update 51] Map Expansion Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2051%5D%20Map%20Expansion%20Update.rbxl) | 2019 | Map Expansion Update | N/A | Made by `@.nuc.lear.` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
+| [`x`]() | 2019 | Season 3 Update | note | Made by `@jorzelekk` |
 | [`53. Jailbreak REWIND [Jetpack-Season 3 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/53.%20Jailbreak%20REWIND%20%5BJetpack-Season%203%20Update%5D.rbxl) | 2019 | Season 3 Update | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
 | [`54. Jailbreak REWIND [Plane Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/54.%20Jailbreak%20REWIND%20%5BPlane%20Update%5D.rbxl) | 2019 | Plane Update | N/A | Made by `@jorzelekk` |
 | [`57. Jailbreak REWIND [Melee Weapon Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/57.%20Jailbreak%20REWIND%20%5BMelee%20Weapon%20Update%5D.rbxl) | 2019 | Melee Weapon Update | N/A | Made by `@jorzelekk` |
