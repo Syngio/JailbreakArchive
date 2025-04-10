@@ -43,9 +43,14 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Winter Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2022/Winter2022Decomp.rbxl)                      | 2022          |  Yes     | Yes                    | Yes                         | [^2]                                                   | Saved by `@ssroh` |
 | [`RB Battles Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2022/RB%20Battles%20Update.rbxl)                  | 2022          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by unknown |
 | [`NASCAR 75th Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2023/NASCAR%2075th%20Update.rbxl) | 2023 |  Yes | Yes | Yes | [^2] | Saved by `@officialrandomcringe` |
-| [`template`]() | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
+| [`Crew Battles`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Crew-Battle-Update-Map-Uncopylocked-23.rbxl) | 2023 |  Yes | Yes | No | Some parts of the map are missing. | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
+| [`Dream Homes`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Dream-Homes-Update-Map-Uncopylocked-23.rbxl) | 2023 | Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
+| [`Season 14`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Season-14-Update-Map-Uncopylocked-2023.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
+| [`Season 15`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2023/Jailbreak-Season-15-Update-Map-Uncopylocked-2023.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
 | [`7 Billion Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/7%20Billion%20Update.rbxl)                   | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
+| [`Season 20`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Jailbreak-Season-20-Update-Map-Uncopylocked-2024.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
 | [`Season 21`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/place_606849621_Jailbreak%20s21.rbxl) | 2024 | [^4] | Yes | Yes (But with a bad decompiler) | [^3] | Found by `@playervalley`, saved by `@goordn` |
+| [`Season 21 #2`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/Jailbreak-Rewind-Update-Map-Uncopylocked-2024.rbxl) | 2023 |  Yes | Yes | No | N/A | Saved by [`@jbuncopylocked`](https://www.youtube.com/@jbuncopylocked) |
 | [`Season 22`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/2024/s22.rbxl) | 2024 | [^4] | Yes | Yes  | [^2] | Found by `@virgil48` & `@playervalley`, saved by `@lovrewe` |
 | [`Fall Update`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/Fall%20Update.rbxl)                        | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
 | [`SWAT Event (With Obby)`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/2024/SWAT%20Event%20(With%20Obby).rbxl)             | 2024          |  Yes     | Yes                    | No                         | N/A                                                    | Saved by `@lovrewe` |
@@ -67,7 +72,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
 [^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
 [^3]: Client scripts are NOT worth fixing.
-[^4]: Huge chunks of the map are missing.
+[^4]: Some or huge chunks of the map are missing.
 
 ### **Re-scripts:**
 
