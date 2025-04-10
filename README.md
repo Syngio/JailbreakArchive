@@ -91,6 +91,10 @@ Different update maps that people have remade.
 | - | - | - | - | - |
 | [`[Update 19] Winter Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2019%5D%20Winter%20Update.rbxl) | 2017 | Winter Update | N/A | Made by `@.nuc.lear.` |
 | [`[Update 51] Map Expansion Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2051%5D%20Map%20Expansion%20Update.rbxl) | 2019 | Map Expansion Update | N/A | Made by `@.nuc.lear.` |
+| [`x`]() | 2020 | | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
+| [`67. Jailbreak REWIND [Cargo Ship Update]`]() | 2020 | Cargo Ship Update | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
+| [`68. Jailbreak REWIND [5 Days of Vehicles Event 2020]`]() | 2020 | 5 Days of Vehicles | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
+| [`69. Jailbreak REWIND [Revamped Power Plant]`]() | 2020 | Power Plant Revamp | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
 | [`71. Jailbreak REWIND [Balance Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/71.%20Jailbreak%20REWIND%20%5BBalance%20Update%5D.rbxl) | 2020 | Balance Update | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
 | [`72. Jailbreak REWIND [Volcano Eruption].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/72.%20Jailbreak%20REWIND%20%5BVolcano%20Eruption%5D.rbxl) | 2020 | Volcano Eruption | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
 | [`73. Jailbreak REWIND [Town Revamp].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/73.%20Jailbreak%20REWIND%20%5BTown%20Revamp%5D.rbxl) | 2020 | Town Revamp | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
