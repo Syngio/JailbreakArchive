@@ -92,15 +92,15 @@ Different update maps that people have remade.
 | - | - | - | - | - |
 | [`[Update 19] Winter Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2019%5D%20Winter%20Update.rbxl) | 2017 | Winter Update | N/A | Made by `@.nuc.lear.` |
 | [`[Update 51] Map Expansion Update.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/%5BUpdate%2051%5D%20Map%20Expansion%20Update.rbxl) | 2019 | Map Expansion Update | N/A | Made by `@.nuc.lear.` |
-| [`38. Jailbreak REWIND [Mega Robbery Update]rbxl.rbxl`]() | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
-| [`40. Jailbreak REWIND [Fire Update].rbxl`]() | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
-| [`43. Jailbreak REWIND [Military Base Update].rbxl`]() | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
-| [`44. Jailbreak REWIND [Prison Update].rbxl`]() | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
-| [`46. Jailbreak REWIND [Helicopter Bombs Update].rbxl`]() | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
-| [`47. Jailbreak REWIND [Jewel Party Update].rbxl`]() | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
-| [`48. Jailbreak REWIND [Garage V1 (2 Year Anniversary Update)].rbxl`]() | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
-| [`49. Jailbreak REWIND [Jailbreak HD Update].rbxl`]() | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
-| [`50. Jailbreak REWIND [Garage V2 Update].rbxl`]() | 2019 | Season 3 Update | N/A| Made by `@jorzelekk` |
+| [`38. Jailbreak REWIND [Mega Robbery Update]rbxl.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/38.%20Jailbreak%20REWIND%20%5BMega%20Robbery%20Update%5Drbxl.rbxl) | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
+| [`40. Jailbreak REWIND [Fire Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/40.%20Jailbreak%20REWIND%20%5BFire%20Update%5D.rbxl) | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
+| [`43. Jailbreak REWIND [Military Base Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/43.%20Jailbreak%20REWIND%20%5BMilitary%20Base%20Update%5D.rbxl) | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
+| [`44. Jailbreak REWIND [Prison Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/44.%20Jailbreak%20REWIND%20%5BPrison%20Update%5D.rbxl) | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
+| [`46. Jailbreak REWIND [Helicopter Bombs Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/46.%20Jailbreak%20REWIND%20%5BHelicopter%20Bombs%20Update%5D.rbxl) | 2019 | Season 3 Update | It has an update countdown located at the server control building. | Made by `@jorzelekk` |
+| [`47. Jailbreak REWIND [Jewel Party Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/47.%20Jailbreak%20REWIND%20%5BJewel%20Party%20Update%5D.rbxl) | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
+| [`48. Jailbreak REWIND [Garage V1 (2 Year Anniversary Update)].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/48.%20Jailbreak%20REWIND%20%5BGarage%20V1%20(2%20Year%20Anniversary%20Update)%5D.rbxl) | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
+| [`49. Jailbreak REWIND [Jailbreak HD Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/49.%20Jailbreak%20REWIND%20%5BJailbreak%20HD%20Update%5D.rbxl) | 2019 | Season 3 Update | N/A | Made by `@jorzelekk` |
+| [`50. Jailbreak REWIND [Garage V2 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/50.%20Jailbreak%20REWIND%20%5BGarage%20V2%20Update%5D.rbxl) | 2019 | Season 3 Update | N/A| Made by `@jorzelekk` |
 | [`53. Jailbreak REWIND [Jetpack-Season 3 Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/53.%20Jailbreak%20REWIND%20%5BJetpack-Season%203%20Update%5D.rbxl) | 2019 | Season 3 Update | Has jorzelekk's character model on top of a building. | Made by `@jorzelekk` |
 | [`54. Jailbreak REWIND [Plane Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/54.%20Jailbreak%20REWIND%20%5BPlane%20Update%5D.rbxl) | 2019 | Plane Update | N/A | Made by `@jorzelekk` |
 | [`57. Jailbreak REWIND [Melee Weapon Update].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/57.%20Jailbreak%20REWIND%20%5BMelee%20Weapon%20Update%5D.rbxl) | 2019 | Melee Weapon Update | N/A | Made by `@jorzelekk` |
