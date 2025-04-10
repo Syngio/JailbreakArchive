@@ -65,7 +65,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Release/Day 1`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/day-1-trade-hub-jaybleaks.rbxl) | 2022 | Yes | Yes | No | N/A | Saved by [`@JayBLeaks`](https://www.roblox.com/users/2882446688/profile) |
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | **Others:** |
-| [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2019, re-published in 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
+| [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
