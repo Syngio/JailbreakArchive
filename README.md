@@ -66,7 +66,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`Season 25`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/trade-hub/JailbreakTrading_Season25_4_7_2025_Decompiled.rbxl) | 2025 | Yes | Yes | Yes | [^2] | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | **Others:** |
 | [`OG Jailbreak`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/main/saveinstances/other/OG-Jailbreak.rbxl) | 2019, re-published in 2024 | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
-| [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by Saved by [`@lovrewe`](https://github.com/lovrewe) |
+| [`Ban Jail`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/Ban-Jail.rbxl) | N/A | Yes | Yes | Yes | N/A | Saved by [`@lovrewe`](https://github.com/lovrewe) |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
 [^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
