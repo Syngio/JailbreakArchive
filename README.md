@@ -93,6 +93,7 @@ Files that have been modified or *re-scripted* so the game is functional to cert
 | [`Chassis2Beta.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/Chassis2Beta.rbxl) | Based on mid 2022, dated late 2022 | An old chassis reverse-engineering project that time forgot. Lacks a lot of vehicle features. | Made by `@drxck`, `@MySisterMadeMePlayRB` & `@myster_xit`. Modified by [`@Syngio`](https://github.com/Syngio) to include more vehicles. |
 | [`Jailbreak_Beta.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/Jailbreak_Beta.rbxl) | Based on early 2017, dated june 2023 | Modified version of `Jailbreak_Dev_Build` designed to be more accurate. Unfinished & very broken. | Made by [`@playervalley`](https://github.com/playervalley) |
 | [`jailbreak 2018again.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/jailbreak%202018again.rbxl) | Based on late 2018, dated mid 2024 | Mostly finished winter update remake based on jorzelek's 2019 game, and uses sicko's map. | Made by [`@playervalley`](https://github.com/playervalley) |
+| [`JBCOPY.rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/rescripts/JBCOPY.rbxl) | Based on mid 2022, date N/A | Bad season 11 remake using the Outlaw's code as a base (eww) | Found by [`@playervalley`](https://github.com/playervalley), made by unknown |
 
 ### **Map remakes:**
 
