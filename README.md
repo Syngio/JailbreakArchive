@@ -82,7 +82,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 > [!WARNING]
 > Please read the notes, as some of these files could get your account warned/terminated.
 
-Files that have been modified or *re-scripted* so the game is functional to certain extent. 
+Files that have been modified or *re-scripted* so the game or some aspects of it are functional to certain extent. 
 
 | File | Year and Date | Description | Credits |
 | - | - | - | - |
