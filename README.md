@@ -79,7 +79,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 
 ### **Re-scripts:**
 
-Files that have been modified or *re-scripted* so the game is functional to certain extent.
+Files that have been modified or *re-scripted* so the game is functional to certain extent. Please read the notes.
 
 | File | Year and Date | Description | Credits |
 | - | - | - | - |
