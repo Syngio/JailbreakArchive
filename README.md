@@ -14,6 +14,10 @@ This repository's contents are divided in four different categories: saveinstanc
 A tab created by [`@nucleurwaste`](https://github.com/nucleurwaste) to give rare and unique assets for your recreation. This exists because not every save instance will have that of what you need.
 A quick and easy way to find what you need to get that 99% accuracy :)
 
+| Year | Notes |
+| - | - |
+| [`TEMPLATE`]() | X | N/A |
+
 ### **Saveinstances**
 
 Maps that have been saved using exploits (Such as Synapse X).
