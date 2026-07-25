@@ -1,18 +1,18 @@
 # **The Jailbreak Archive**
-Some Jailbreak place files that I have collected or made over time.
+Some Jailbreak place files that other people and I have collected or made over time.
 
-You can use some of these place files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
+You can use some of these files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
 
-This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom-Forces-Source) Phantom Forces one, make sure to check it out, it's very awesome.
+This repo was heavily inspired by [this](https://github.com/Iitozinnamon/Phantom-Forces-Source) (now defunct) Phantom Forces one of a similar nature.
 
 # **Contents**
 
-This repository's contents are divided in three different categories: saveinstances, re-scripts, map remakes & specific game assets. Most of these are organized by year for your comfort.
+This repository's contents are divided in four different categories: saveinstances, re-scripts, map remakes & specific game assets. Most of these are organized by year for your comfort.
 
 ### **Assets**
 
 A tab created by [`@nucleurwaste`](https://github.com/nucleurwaste) to give rare and unique assets for your recreation. This exists because not every save instance will have that of what you need.
-A quick and easy way to find what you need to get that 99% accuracy :).
+A quick and easy way to find what you need to get that 99% accuracy :)
 
 ### **Saveinstances**
 
