@@ -1,7 +1,7 @@
 # **The Jailbreak Archive**
 Some Jailbreak place files that other people and I have collected or made over time, put together into a single place for commodity.
 
-You can use these files to rescript the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
+You can use these files to rescript the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!) and or just opening them in old Studio builds for an accurate POV (depending of the era).
 
 This repo was heavily inspired by [this (now defunct)](https://github.com/Iitozinnamon/Phantom-Forces-Source) Phantom Forces one of a similar nature.
 
