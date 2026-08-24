@@ -170,5 +170,7 @@ Different update maps that people have remade.
 | [`74. Jailbreak REWIND [Fall 2020].rbxl`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/map-remakes/74.%20Jailbreak%20REWIND%20%5BFall%202020%5D.rbxl) | 2020 | Fall Update | Has jorzelekk's character model on top of a building. | Made by [`@jorzelek`](https://github.com/Jorzelek) |
 | [`season3map.rbxl`](https://github.com/Syngio/JailbreakArchive/blob/indev/map-remakes/season3map.rbxl) | 2021 | Season 3 Update | Has nucleur's character model in a cell. | Made by [`@nucleurwaste`](https://github.com/nucleurwaste) |
 
-# **File Suggestions**
-File suggestions are welcome. Just create an issue including your file(s), and I will make sure to include it/them in here!
+# **Suggestions/Improvements**
+Suggestions of any kind (like files or improving the archive structure) are welcome. Create an issue including your file(s) or suggestion, and I will make sure to include it/them in here.
+
+<sub> 2022-2026 Syngio et al. </sub>
