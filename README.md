@@ -5,7 +5,7 @@ You can use these files to rescript the game (Complete the missing parts of the 
 
 This repo was heavily inspired by [this (now defunct)](https://github.com/Iitozinnamon/Phantom-Forces-Source) Phantom Forces one of a similar nature.
 
-We ([nucleurwaste](https://github.com/nucleurwaste) and [Syngio](https://github.com/Syngio)) are not affiliated in any way with Badimo or any of its members, nor take responsibility on how you use these files or if they get you banned off the platform, these are here only for learning purposes and it's worthy to known that at any given time Roblox can poison ban any single one of them (Make sure to inform ASAP via an issue with proof if that is the case). We do not condone the usage of these files for financial profits (e.g.: Public modded games).
+We ([nucleurwaste](https://github.com/nucleurwaste) and [Syngio](https://github.com/Syngio)) are not affiliated in any way with Badimo or any of its members, nor take responsibility on how you use these files or if they get you banned off the platform, these are here only for learning purposes and it's worthy to known that at any given time Roblox can poison ban any single one of them (Make sure to inform ASAP via an issue with proof if that is the case). We do not condone the usage of these files for financial profits (e.g.: Public modded games). Make sure to support them in any way you can via legitimate means.
 
 # **Contents**
 
