@@ -1,15 +1,15 @@
 # **The Jailbreak Archive**
 Some Jailbreak place files that other people and I have collected or made over time, put together into a single place for commodity.
 
-You can use these files to re-script the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
+You can use these files to rescript the game (Complete the missing parts of the game and have your own Jailbreak, how cool does that sound!).
 
 This repo was heavily inspired by [this (now defunct)](https://github.com/Iitozinnamon/Phantom-Forces-Source) Phantom Forces one of a similar nature.
 
-We ([nucleurwaste](https://github.com/nucleurwaste) and [Syngio](https://github.com/Syngio)) are not affiliated in any way with Badimo or any of its members, nor take responsibility on how you use these files or if they get you banned off the platform, these are here only for learning purposes and it's worthy to known that at any given time Roblox can poison ban any of these files. We do not condone the usage of these files for financial profits (e.g.: Modded games).
+We ([nucleurwaste](https://github.com/nucleurwaste) and [Syngio](https://github.com/Syngio)) are not affiliated in any way with Badimo or any of its members, nor take responsibility on how you use these files or if they get you banned off the platform, these are here only for learning purposes and it's worthy to known that at any given time Roblox can poison ban any of these files. We do not condone the usage of these files for financial profits (e.g.: Public modded games).
 
 # **Contents**
 
-This repository's contents are divided in four different categories: Saveinstances, Rescripts, Map Remakes & Assets. Most of these are organized by year for your comfort.
+This repository's contents are divided in four different categories: **Saveinstances**, **Rescripts**, **Map Remakes** & **Assets**. Most of these are organized by date and year for your comfort.
 
 ### **Assets**
 
